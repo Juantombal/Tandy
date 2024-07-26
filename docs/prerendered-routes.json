@@ -1,0 +1,10 @@
+{
+  "routes": [
+    "/",
+    "/afspraak",
+    "/behandelingen-tarieven",
+    "/contact",
+    "/inschrijven",
+    "/team"
+  ]
+}
